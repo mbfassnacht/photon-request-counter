@@ -85,7 +85,7 @@ function initServer(err, device) {
 
   }.bind(this));
 
-  function registerEvent(light, color){
+  function registerEvent(color){
     deviceReference.callFunction('increase', color, function(err, data) {
         if (err) {
           console.log(err);
