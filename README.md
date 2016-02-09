@@ -16,3 +16,16 @@ Edit config.json and add your credentials and then...
 ```javascript
 node index.js
 ```
+
+## BUILD THE PROTOTYPE
+
+###STUFF
+- Photon
+- 220 OMS Resistence
+- 3 LED lights
+- 1 Potenciometer 50k
+- 1 Protoboard
+- 1 LCD 12x16 Cells
+- 16 wires
+
+
