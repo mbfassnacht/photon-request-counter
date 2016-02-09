@@ -1,4 +1,4 @@
-# spark-request-counter
+# photon-request-counter
 The idea of this prototype is to have a counter of request in a LCD that can show you analytics of a site quickly.
 In this example the protoype count event when you heat with a POST this following URL:
 - http://localhost:8000/api/yellow
