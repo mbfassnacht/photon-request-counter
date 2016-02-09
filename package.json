@@ -1,0 +1,17 @@
+{
+  "name": "spark-request-counter",
+  "version": "0.0.1",
+  "description": "Spark request counter",
+  "author": {
+    "name": "Maximo Belen",
+    "email": "maximobelen@me.com"
+  },
+  "license": "MIT",
+  "repository": "git@github.com:maximobelen/spark-request-counter.git",
+  "dependencies": {
+    "request": "^2.67.0",
+    "spark": "^1.0.0",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3"
+  }
+}
