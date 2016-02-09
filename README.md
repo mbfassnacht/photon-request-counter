@@ -11,6 +11,8 @@ Install Node.js in your system
 npm install
 ```
 ### RUN
+Edit config.json and add your credentials and then...
+
 ```javascript
 node index.js
 ```
