@@ -5,7 +5,8 @@ In this example the protoype count event when you heat with a POST this followin
 - http://localhost:8000/api/red
 - http://localhost:8000/api/green
 
-But you can use it to get more interested statistics like login URL hits or some other URL that is important to your site
+But you can use it to get more interested statistics like login URL hits or some other URL that is important to your site.
+When someone hit a URL that you have controlled by the index.js server the LCD screen connected to the Photon increase the count and also a light is going to turned on.
 
 ## INSTALLATION
 
